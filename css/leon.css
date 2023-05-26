@@ -335,7 +335,9 @@ html {
     text-align: center;
   }
   .about .about-content .img {
-    margin-bottom: 60px;
+    display: none;
+  }
+  bout .about-content .img::after {
   }
 }
 
